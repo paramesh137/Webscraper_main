@@ -1,0 +1,9 @@
+{
+  "name": "extract-01-scraper-console",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web scraping console frontend with a Vercel serverless function proxying ScraperAPI (key kept server-side).",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
